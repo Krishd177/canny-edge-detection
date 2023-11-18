@@ -1,0 +1,16 @@
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector/LineBuffer/InputControlValidation --> InputControlValidation
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector/LineBuffer/DataReadController --> DataReadController
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector/LineBuffer/LineSpaceAverager --> LineSpaceAverager
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector/LineBuffer/LineInfoStore --> LineInfoStore
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector/LineBuffer/DATA_MEMORY/PushPopCounterOne --> PushPopCounterOne
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector/LineBuffer/DATA_MEMORY/PushPopCounter --> PushPopCounter
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector/LineBuffer/DATA_MEMORY --> DATA_MEMORY
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector/LineBuffer/LineInfoStore --> LineInfoStore_block
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector/LineBuffer/PaddingController --> PaddingController
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector/LineBuffer/GateProcessData --> GateProcessData
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector/LineBuffer --> LineBuffer
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector --> Edge_Detector
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection --> Edge_Detection
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Pixel Stream Aligner/SimpleDualPortRAM_generic --> SimpleDualPortRAM_generic
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Pixel Stream Aligner --> Pixel_Stream_Aligner
+EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model --> Pixel_Stream_HDL_Model

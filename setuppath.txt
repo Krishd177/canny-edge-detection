@@ -1,0 +1,1 @@
+>> hdlsetuptoolpath('ToolName','Altera Quartus II','ToolPath','C:\altera\13.0sp1\quartus\bin64')

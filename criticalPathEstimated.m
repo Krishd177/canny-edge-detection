@@ -1,0 +1,13 @@
+open_system('gm_EdgeDetectionAndOverlayHDL');
+cs.HiliteType = 'user2';
+cs.ForegroundColor = 'black';
+cs.BackgroundColor = 'lightblue';
+set_param(0, 'HiliteAncestorsData', cs);
+hilite_system('gm_EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection', 'user2');
+annotate_port('gm_EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection', 1, 2, 'cp : 5.675 ns');
+cs.HiliteType = 'user2';
+cs.ForegroundColor = 'black';
+cs.BackgroundColor = 'lightblue';
+set_param(0, 'HiliteAncestorsData', cs);
+hilite_system('gm_EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector', 'user2');
+annotate_port('gm_EdgeDetectionAndOverlayHDL/Pixel-Stream HDL Model/Edge Detection/Edge Detector', 1, 2, 'cp : 5.675 ns');
